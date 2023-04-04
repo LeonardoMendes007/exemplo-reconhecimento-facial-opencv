@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReconhecimentoFacialEmVideo", "ReconhecimentoFacialEmVideo\ReconhecimentoFacialEmVideo.csproj", "{99CBECE4-8E8E-417A-8CA1-07E7B51B67E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReconhecimentoFacialEmFoto", "ReconhecimentoFacialEmFoto\ReconhecimentoFacialEmFoto.csproj", "{0BCF76CE-E790-4C1C-8715-AD1FDDBB6559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CBECE4-8E8E-417A-8CA1-07E7B51B67E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CBECE4-8E8E-417A-8CA1-07E7B51B67E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CBECE4-8E8E-417A-8CA1-07E7B51B67E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CBECE4-8E8E-417A-8CA1-07E7B51B67E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCF76CE-E790-4C1C-8715-AD1FDDBB6559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCF76CE-E790-4C1C-8715-AD1FDDBB6559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCF76CE-E790-4C1C-8715-AD1FDDBB6559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCF76CE-E790-4C1C-8715-AD1FDDBB6559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE7E800-426B-406F-ACA4-0D69B5248AA3}
+	EndGlobalSection
+EndGlobal
